@@ -16,6 +16,7 @@ class InheritanceDemo {
         mem1.setDiscount();
         mem1.calculateAnnualFee();
         mem1.displayMemInfo();
+        //
     }
 
 }
